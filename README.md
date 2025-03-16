@@ -11,7 +11,7 @@
 
 📫 Contact me at email: ithalozimermann96@gmail.com
 
-
+##
 <h3 align= center>Exploring these tecnologies</h3>
 <div style="display: inline_block"><br>
 <p align=center>
@@ -22,6 +22,7 @@
   <img align="center" alt="Ithalo_Django" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 </p>
   </div>
+##
 <h3 align= center>🌍 My Social Spaces</h3>
 <div>
  <p align= center>
@@ -31,5 +32,5 @@
  </p>
 
 </div>
-
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ccedilha&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
