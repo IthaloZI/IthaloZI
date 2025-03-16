@@ -29,7 +29,7 @@
  <p align= center>
    <a href="https://www.linkedin.com/in/ithalo-zimermann-4a2a97212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://www.instagram.com/ithalozi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://open.spotify.com/user/tpe2t3bq55rx06b2ugahhf340?si=847c23e866a74f7e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
+
  </p>
 
 </div>
