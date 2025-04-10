@@ -5,7 +5,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=PharagonArc&color=lightgrey&style=plastic" alt="PharagonArc" /> </p> 
 
  
-🌱 I’m currently learning Information systems at Instituto Federal do Rio Grande do Sul, Campus Farroupilha 
+🌱 Currently learning Information systems at Instituto Federal do Rio Grande do Sul, Campus Farroupilha 
 
 💬 Ask me about Technologies, music and cinema
 
