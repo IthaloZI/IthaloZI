@@ -2,7 +2,7 @@
 
 <h3  align="center">I'm an information systems student</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=PharagonArc&color=lightgrey&style=plastic" alt="PharagonArc" /> </p> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=IthaloZI&color=lightgrey&style=plastic" alt="Ithalo" /> </p> 
 
  
 🌱 Currently learning Information systems at Instituto Federal do Rio Grande do Sul, Campus Farroupilha 
@@ -35,7 +35,7 @@
 </div>
 
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PharagonArc&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PharagonArc&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IthaloZI&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IthaloZI&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PharagonArc&theme=transparent" alt="PharagonArc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IthaloZI&theme=transparent" alt="IthaloZI" /></p>
